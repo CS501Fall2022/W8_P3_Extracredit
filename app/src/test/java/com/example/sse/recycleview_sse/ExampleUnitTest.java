@@ -1,4 +1,4 @@
-package com.example.sse.customlistview_sse;
+package com.example.sse.recycleview_sse;
 
 import org.junit.Test;
 

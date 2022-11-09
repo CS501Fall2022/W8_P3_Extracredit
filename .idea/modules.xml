@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lect7_CustomListView.iml" filepath="$PROJECT_DIR$/.idea/modules/Lect7_CustomListView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lect7_CustomListView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lect7_CustomListView.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lect7_CustomListView.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lect7_CustomListView.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lect7_CustomListView.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lect7_CustomListView.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lect7_CustomListView.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lect7_CustomListView.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RecycleView.iml" filepath="$PROJECT_DIR$/.idea/modules/RecycleView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecycleView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecycleView.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecycleView.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecycleView.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecycleView.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecycleView.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecycleView.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecycleView.app.unitTest.iml" />
     </modules>
   </component>
 </project>

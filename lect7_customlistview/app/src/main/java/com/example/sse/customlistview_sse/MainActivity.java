@@ -1,4 +1,4 @@
-package com.example.sse.customlistview_sse;
+package com.example.sse.recycleview_sse;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
